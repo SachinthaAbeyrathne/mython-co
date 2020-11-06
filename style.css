@@ -93,7 +93,8 @@ body {
   
   .header-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
-    height: 70%;
+    height: 50%;
+    width: fit-content;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -106,7 +107,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: rgb(0, 0, 0);
   }
 
 

@@ -19,8 +19,7 @@ body {
     padding: 0;
     overflow-x:  hidden;
     background-color: #333;
-   position: fixed;
-    position: sticky;
+   position: relative;
     top: 0;
   }
   
@@ -32,7 +31,7 @@ body {
     display: block;
     color: white;
     text-align: center;
-    padding: 16px 16px;
+    padding: 14px 16px;
     text-decoration: none;
     position: sticky;
   }

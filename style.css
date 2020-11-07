@@ -175,14 +175,14 @@ body {
     background-color: #45a049;
   }
   
-  /* Style the container/contact section */
+
   .container {
     border-radius: 5px;
     background-color: #3f3d3d;
     padding: 10px;
   }
   
-  /* Create two columns that float next to eachother */
+
   .column {
     float: left;
     width: 50%;
